@@ -318,10 +318,10 @@ MonoBehaviour:
       enabled: 0
       maxPercentage: 100
       minPercentage: 100
-      dynResType: 1
+      dynResType: 0
       upsampleFilter: 1
-      forceResolution: 0
-      forcedPercentage: 100
+      forceResolution: 1
+      forcedPercentage: 50
     lowresTransparentSettings:
       enabled: 1
       checkerboardDepthBuffer: 1
